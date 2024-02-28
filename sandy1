@@ -1,2 +1,6 @@
-how are you ?
-hello
+
+<<<<<<< HEAD
+hi
+=======
+kya hal hai
+>>>>>>> branch1
